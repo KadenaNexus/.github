@@ -17,7 +17,7 @@ Community-built tools and sites for the Kadena blockchain, maintained since Janu
 
 ## In development
 
-Kadena Garden (browser mining), ChainProof (proof of existence), Kadena AgentPay AI (agent payments through Pact), KadenaTrace (follow KDA across chains) and Kadena Privacy. Each opens here when it launches.
+Kadena Garden (open-source solo mining: shared stratum and nodes, every block paid to the miner’s own account), ChainProof (QR-based proof of authenticity for physical goods, recorded on Kadena), Kadena AgentPay AI (AI agents pay for services in KDA through Pact, within limits a person sets), KadenaTrace (traces scam and fraud transactions across wallets and chains, with findings attested on-chain) and Kadena Privacy (privacy tools for Kadena, built in stages). Each opens here when it launches, with more to come.
 
 ## Contributing
 
